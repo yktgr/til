@@ -12,3 +12,5 @@
     - git branch
     - git add .
     - git commit -m "hoge"
+
+#2-06
