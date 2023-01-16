@@ -38,4 +38,3 @@ tail 最後の10行
 
 ls /bin | grep ss /binの一覧のなかのssという文字
 
-#vim
